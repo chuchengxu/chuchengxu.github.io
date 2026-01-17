@@ -15,9 +15,7 @@ redirect_from:
 <div style="line-height: 1.6;">
   <strong>硕士研究生 (Master Student)</strong>
   <br>
-  <a href="https://sdc.ucas.ac.cn/">中国科学院大学中丹学院 (SDC, UCAS)</a> · <a href="https://international.au.dk/">奥胡斯大学 (Aarhus University)</a>
-  <br>
-  <a href="http://www.ia.ac.cn/">中国科学院自动化研究所 (CASIA)</a> · <a href="http://www.ia.ac.cn/">多模态人工智能系统全国重点实验室</a>
+  <a href="http://www.ia.ac.cn/">多模态人工智能系统全国重点实验室</a>
 </div>
 
 ---
