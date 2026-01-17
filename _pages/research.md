@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "科学研究"
+title: "科学研究（Reaesrch)"
 permalink: /research/
 author_profile: true
 ---
