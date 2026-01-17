@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "科学研究 (Research)"
+title: "科学研究"
 permalink: /research/
 author_profile: true
 ---
@@ -8,11 +8,11 @@ author_profile: true
 ## 研究方向
 我的主要研究兴趣集中在 **脑机接口 (BCI)** 与 **机器人控制** 的交叉领域，致力于通过神经信号解码实现人机共融
 
-### 1. 运动意图解码 (Motor Intention Decoding)
+### 1. 运动意图解码
 * **多模态信号融合**: 结合脑电(EEG)和表面肌电(sEMG)信号，提高运动意图识别的准确率和鲁棒性
 * **时空特征学习**: 利用深度学习方法提取神经信号中的时空特征
 
-### 2. 智能机器人控制 (Intelligent Robot Control)
+### 2. 智能机器人控制
 * **外骨骼机器人**: 研究基于人体运动意图的主动康复控制策略
 * **人机协作**: 探索机器人如何理解人类意图并进行自适应协作
 
