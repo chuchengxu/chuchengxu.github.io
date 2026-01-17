@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: right;">
-  <a href="/" style="font-weight: bold; color: #c0392b;">🇨🇳 返回中文首页 (Chinese)</a>
+  <a href="/" style="font-weight: bold; color: #c0392b;"> 返回中文首页 (Chinese)</a>
 </div>
 
 Hello! I am **Chengxu Chu (褚承旭)**, a senior undergraduate student majoring in **Cognitive Neuroscience**. 
