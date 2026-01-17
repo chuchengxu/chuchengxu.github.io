@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: right;">
-  <a href="/en/" style="font-weight: bold; color: #0056b3;"> English Version</a>
-</div>
-
 <div style="line-height: 1.6;">
+  <a href="/en/" style="font-weight: bold; color: #0056b3;"> English Version</a>
+  <br>
+  
   <strong>硕士研究生 (Master Student)</strong>
   <br>
-  <a href="http://www.ia.ac.cn/">多模态人工智能系统全国重点实验室</a>
+  <a href="http://www.ia.ac.cn/">多模态人工智能系统全国重点实验室 (State Key Laboratory of Multimodal Artificial Intelligence Systems)</a>
 </div>
 
 ---
