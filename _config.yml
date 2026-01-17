@@ -24,19 +24,22 @@ author:
   # Biographic information
   avatar           : "profile.png" # 记得上传一张照片命名为 profile.png
   name             : "褚承旭 / Chengxu Chu"
-  bio              : bio: "<b>硕士研究生</b><br>中国科学院自动化研究所<br>中国科学院大学中丹学院<br>奥胡斯大学"
+  # 👇 【修复点】这里原来写错了，已经改好了
+  bio              : "<b>硕士研究生</b><br>中国科学院自动化研究所<br>中国科学院大学中丹学院<br>奥胡斯大学"
   location         : "Beijing, China"
   employer         : "CASIA"
   uri              : # URL
   email            : "2204120107@xy.dlpu.edu.cn" 
 
-  # Academic websites
+  # Academic websites (只保留了你要的这两个)
+  googlescholar    : "你的谷歌学术ID" # 记得填入你的 ID
+  orcid            : "你的ORCID链接"  # 记得填入你的 ID
+
+  # 其他链接已隐藏/清空
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : "" # 有了谷歌学术主页后填在这里
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "" # 有 ORCID 后填在这里
   semantic         : # URL
   ssrn             : # URL
   pubmed           : ""
