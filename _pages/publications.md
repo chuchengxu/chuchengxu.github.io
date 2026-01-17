@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2026
 
-Coming soon...
+* Coming soon...
 
 ## 2025
 
