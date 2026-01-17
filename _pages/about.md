@@ -14,7 +14,7 @@ redirect_from:
   
   <strong>硕士研究生</strong>
   <br>
-  <a href="http://www.ia.ac.cn/">多模态人工智能系统全国重点实验室</a>
+  <a href="https://mais.ia.ac.cn/">多模态人工智能系统全国重点实验室</a>
 </div>
 
 ---
