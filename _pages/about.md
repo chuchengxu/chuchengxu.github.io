@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: right;">
-  <a href="/en/" style="font-weight: bold; color: #0056b3;">🇺🇸 English Version</a>
+  <a href="/en/" style="font-weight: bold; color: #0056b3;"> English Version</a>
 </div>
 
 <div style="line-height: 1.6;">
