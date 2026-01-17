@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chengxu Chu / 褚承旭"
+title: "褚承旭 / Chengxu Chu"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -39,9 +39,12 @@ redirect_from:
 * **2022.09 - 2026.06 大连工业大学 (Dalian Polytechnic University)**
   * 工学学士 (B.E.)，机械电子工程 (Mechatronic Engineering)
   * 导师：[原浩](https://jxxy.dlpu.edu.cn/article/1923701170314092544)
+
+* **2019.09 - 2022.06 大连市第二十三中学 (Dalian No.23 High School)**
     
 ## 最新动态 (News)
 
-* **2026.01:** 在中国科学院自动化研究所实习
 * **2026.01:** 获得2026年辽宁省优秀毕业生称号
-* **2025.09:** 被中国科学院大学中丹学院拟录取为硕士研究生。
+* **2025.10:** 获得大连工业大学综合二等奖学金
+* **2025.09:** 被中国科学院大学中丹学院拟录取为硕士研究生
+* **2025.07:** 参加南京航空航天大学“低空无人机自主决策与安全控制”暑期学校
