@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](#).
-
 ## 2025
 
 * **Chengxu Chu**, Chenming Yang, Zhenwu Huang. "An Improved Dung Beetle Optimizer Based on Fuch Chaotic Map and Its Application in 3D Path Planning for Unmanned Aerial Vehicles", *ACM Conference Proceedings*, 2025. 
