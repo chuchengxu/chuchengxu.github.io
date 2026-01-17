@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](#).
+## 2026
+
+Coming soon...
 
 ## 2025
 
@@ -13,4 +15,4 @@ You can also find my articles on [my Google Scholar profile](#).
 
 ## 2024
 
-* Li D L, **Chu C X**, Gao H H, Yang C M, Liu X, Huang Z W. Prediction of global mean temperature based on SARIMA combined model. Proceedings of the 4th International Conference on Applied Mathematics, Modelling, and Intelligent Computing (CAMMIC 2024), 2024: 132193M. [View Paper](https://doi.org/10.1117/12.3036492)
+* Li D L, **Chu C X**, Gao H H, Yang C M, Liu X, Huang Z W. Prediction of global mean temperature based on SARIMA combined model. Proceedings of the 4th International Conference on Applied Mathematics, Modelling, and Intelligent Computing (CAMMIC 2024), 2024. [View Paper](https://doi.org/10.1117/12.3036492)
