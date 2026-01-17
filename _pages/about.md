@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <div style="text-align: right;">
-  <a href="/en/" style="font-weight: bold; color: #0056b3;">🇺🇸 English Version</a>
+  <a href="/en/" style="font-weight: bold; color: #0056b3;">English Version</a>
 </div>
 
 **准硕士研究生 (Incoming Master Student)**
-[中国科学院自动化研究所 (CASIA)](http://www.ia.ac.cn/) ·
+[中国科学院自动化研究所 (CASIA)](http://www.ia.ac.cn/) 
 [多模态人工智能系统全国重点实验室](http://www.ia.ac.cn/)
 
 ---
