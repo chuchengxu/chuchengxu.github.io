@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "关于我"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-<a href="/cn/" style="font-size: 16px; font-weight: bold; color: #c0392b;">🇨🇳 中文版 (Chinese Version)</a>
+<div style="text-align: right;">
+  <a href="/en/" style="font-weight: bold; color: #0056b3;"> English Version</a>
+</div>
 
-Hello! I am **Chengxu Chu**, a senior undergraduate student majoring in **Cognitive Neuroscience**. 
+你好！我是**褚承旭 (Chengxu Chu)**，目前就读于大连工业大学，是一名机械电子工程专业的大四本科生。
 
-Starting from September 2026, I will be pursuing my Master's degree at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, under the supervision of Prof. **[Zengguang Hou](https://people.ucas.ac.cn/~zengguanghou)**.
+我已保送至**中国科学院大学中丹学院** 攻读硕士学位，导师为**侯增广研究员**，将于 2026 年 9 月正式入学。
 
-My research interests focus on the intersection of **Brain-Computer Interfaces (BCI)** and **Robotics**, specifically in:
-* Motor Intention Decoding (EEG & sEMG)
-* Multimodal Sensor Fusion
-* Intelligent Control Systems
+目前，我正在自动化所进行研究实习，主要关注 **脑机接口 (BCI)** 与 **机器人控制** 的交叉领域，特别是：
+* 运动意图解码与模式识别
+* 机器人与智能系统
 
-## News
-* **Jan 2026:** I have started my research internship at CASIA.
-* **Dec 2025:** Admitted to the Graduate Program at CASIA.
+## 最新动态 (News)
+
+* **2026.01:** 在中国科学院自动化研究所实习
+* **2025.09:** 被中国科学院大学中丹学院拟录取为硕士研究生
