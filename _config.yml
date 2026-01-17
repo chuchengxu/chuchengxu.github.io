@@ -22,27 +22,32 @@ repository               : "chuchengxu/chuchengxu.github.io"
 #                Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # 记得上传一张照片命名为 profile.png
+  avatar           : "profile.png" # 记得确保 images 文件夹里有这张照片
   name             : "褚承旭 / Chengxu Chu"
-  # 👇 【修复点】这里原来写错了，已经改好了
-  bio              : "<b>硕士研究生</b><br>中国科学院自动化研究所<br>中国科学院大学中丹学院<br>奥胡斯大学"
+  # 👇 【修改点1】顺序已调整：国科大 -> 自动化所 -> 奥胡斯
+  bio              : "<b>硕士研究生</b><br>中国科学院大学 (UCAS)<br>中国科学院自动化研究所 (CASIA)<br>奥胡斯大学 (AU)"
   location         : "Beijing, China"
   employer         : "CASIA"
   uri              : # URL
   email            : "2204120107@xy.dlpu.edu.cn" 
 
-  # Academic websites (只保留了你要的这两个)
-  googlescholar    : "你的谷歌学术ID" # 记得填入你的 ID
-  orcid            : "你的ORCID链接"  # 记得填入你的 ID
+  # Academic websites
+  googlescholar    : "你的谷歌学术ID" # 如果有了 ID 记得填进去，没有就留空或填 ""
+  
+  # 👇 【修改点2】更新了你的 ORCID
+  orcid            : "0009-0000-6671-1305" 
 
-  # 其他链接已隐藏/清空
+  # 👇 【修改点3】删除了 PubMed 和 Bluesky
+  pubmed           : "" 
+  bluesky          : ""
+  
+  # 其他不需要的链接保持为空
   academia         : # URL
   arxiv            : # URL
   inspire-hep      : # URL
   impactstory      : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -58,7 +63,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "" 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
