@@ -30,7 +30,7 @@ Currently, I am a visiting student at the **Institute of Automation, Chinese Aca
 
 ## Education
 
-* **2026.09 - Present   University of Chinese Academy of Sciences (UCAS) / Aarhus University**
+* **2026.09 - Present   University of Chinese Academy of Sciences / Aarhus University**
   * M.S. in Cognitive Neuroscience
   * Supervisor: [Prof. Zengguang Hou](https://people.ucas.ac.cn/~zengguanghou)
 
