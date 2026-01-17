@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="line-height: 1.6;">
-  <a href="/en/" style="font-weight: bold; color: #0056b3;"> English Version（英文个人主页）</a>
+  <a href="/en/" style="font-weight: bold; color: #0056b3;"> 英文个人主页（English Version）</a>
   <br>
   
   <strong>硕士研究生</strong>
