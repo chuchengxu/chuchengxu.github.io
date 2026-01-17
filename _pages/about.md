@@ -36,3 +36,10 @@ redirect_from:
 * **2022.09 - 2026.06 大连工业大学 (Dalian Polytechnic University)**
   * 工学学士 (B.E.)，机械电子工程 (Mechatronic Engineering)
   * 导师：[原浩](https://jxxy.dlpu.edu.cn/article/1923701170314092544)
+
+---
+
+## 联系方式 (Contact)
+* **地址:** 中国北京市海淀区中关村东路95号
+* **邮编:** 100190
+* **邮箱:** [2204120107@xy.dlpu.edu.cn](mailto:2204120107@xy.dlpu.edu.cn)
