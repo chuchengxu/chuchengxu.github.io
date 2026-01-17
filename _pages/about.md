@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 <div style="line-height: 1.6;">
-  <a href="/en/" style="font-weight: bold; color: #0056b3;"> English Version</a>
+  <a href="/en/" style="font-weight: bold; color: #0056b3;"> English Version（英文个人主页）</a>
   <br>
   
-  <strong>硕士研究生 (Master Student)</strong>
+  <strong>硕士研究生</strong>
   <br>
   <a href="http://www.ia.ac.cn/">多模态人工智能系统全国重点实验室</a>
 </div>
 
 ---
 
-## 个人简介 (About Me)
+## 个人简介
 
 你好！我是**褚承旭**，目前就读于大连工业大学，是一名机械电子工程专业的大四本科生。
 
@@ -29,19 +29,19 @@ redirect_from:
 
 ---
 
-## 教育经历 (Education)
+## 教育经历
 
-* **2026.09 - 至今 中国科学院大学 (UCAS) / 奥胡斯大学 (Aarhus University)**
-  * 理学硕士 (M.S.) 认知神经科学 (Cognitive Neuroscience)
+* **2026.09 - 至今 中国科学院大学 / 奥胡斯大学**
+  * 理学硕士 (M.S.) 认知神经科学
   * 导师：[侯增广 研究员](https://people.ucas.ac.cn/~zengguanghou)
 
-* **2022.09 - 2026.06 大连工业大学 (Dalian Polytechnic University)**
-  * 工学学士 (B.E.) 机械电子工程 (Mechatronic Engineering)
+* **2022.09 - 2026.06 大连工业大学**
+  * 工学学士 (B.E.) 机械电子工程
   * 导师：[原浩](https://jxxy.dlpu.edu.cn/article/1923701170314092544)
 
 ---
 
-## 联系方式 (Contact)
+## 联系方式
 * **地址:** 中国北京市海淀区中关村东路95号
 * **邮编:** 100190
 * **邮箱:** [2204120107@xy.dlpu.edu.cn](mailto:2204120107@xy.dlpu.edu.cn)
