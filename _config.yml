@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Chengxu Chu (褚承旭)"
+title                    : "褚承旭 / Chengxu Chu"
 title_separator          : "-"
 name                     : &name "Chengxu Chu"
 description              : &description "Personal Website of Chengxu Chu (褚承旭)"
@@ -23,8 +23,8 @@ repository               : "chuchengxu/chuchengxu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png" # 记得上传一张照片命名为 profile.png
-  name             : "Chengxu Chu (褚承旭)"
-  bio              : "<b>Incoming Master Student</b><br>CASIA<br><b>准硕士研究生</b><br>中科院自动化所"
+  name             : "褚承旭 / Chengxu Chu"
+  bio              : bio: "<b>硕士研究生</b><br>中国科学院自动化研究所<br>中国科学院大学中丹学院<br>奥胡斯大学"
   location         : "Beijing, China"
   employer         : "CASIA"
   uri              : # URL
