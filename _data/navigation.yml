@@ -1,10 +1,16 @@
 # main links
 main:
+  - title: "科学研究"
+    url: /research/
+    
   - title: "学术论文"
     url: /publications/
     
   - title: "获奖情况"
     url: /awards/
     
-  - title: "英文版 (English)"
+  - title: "最新动态"
+    url: /news/
+    
+  - title: "英文主页（English)"
     url: /en/
