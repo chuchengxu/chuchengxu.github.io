@@ -13,7 +13,7 @@ redirect_from:
 </div>
 
 <div style="line-height: 1.6;">
-  <strong>准硕士研究生 (Incoming Master Student)</strong>
+  <strong>硕士研究生 (Master Student)</strong>
   <br>
   <a href="http://www.ia.ac.cn/">中国科学院自动化研究所 (CASIA)</a> · <a href="http://www.ia.ac.cn/">多模态人工智能系统全国重点实验室</a>
   <br>
