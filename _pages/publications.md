@@ -9,8 +9,8 @@ You can also find my articles on [my Google Scholar profile](#).
 
 ## 2025
 
-* **Chengxu Chu**, Chenming Yang, Zhenwu Huang. "An Improved Dung Beetle Optimizer Based on Fuch Chaotic Map and Its Application in 3D Path Planning for Unmanned Aerial Vehicles", *ACM Conference Proceedings*, 2025. (DOI: 10.1145/3732945.3733003)
+* **Chengxu Chu**, Chenming Yang, Zhenwu Huang. "An Improved Dung Beetle Optimizer Based on Fuch Chaotic Map and Its Application in 3D Path Planning for Unmanned Aerial Vehicles", *ACM Conference Proceedings*, 2025. 
 
 ## 2024
 
-* Dongliang Li, **Chengxu Chu**, Huihui Gao, Chenming Yang, Xin Liu, Zhenwu Huang. "Prediction of global mean temperature based on SARIMA combined model", in *Proceedings of the Fourth International Conference on Applied Mathematics, Modelling, and Intelligent Computing (CAMMIC 2024)*, vol. 13219, pp. 132193M, SPIE, 2024. [View Paper](https://doi.org/10.1117/12.3036492)
+* Dongliang Li, **Chengxu Chu**, Huihui Gao, Chenming Yang, Xin Liu, Zhenwu Huang. "Prediction of global mean temperature based on SARIMA combined model", in *Proceedings of the Fourth International Conference on Applied Mathematics, Modelling, and Intelligent Computing (CAMMIC 2024)*, vol. 13219, pp. 132193M, SPIE, 2024. 
