@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "褚承旭 / Chengxu Chu"
 title_separator          : "-"
 name                     : &name "Chengxu Chu"
-description              : &description "Personal Website of Chengxu Chu (褚承旭)"
+description              : &description "褚承旭的个人学术主页 Personal Website of Chengxu Chu"
 url                      : "https://chuchengxu.top"
 baseurl                  : ""
 repository               : "chuchengxu/chuchengxu.github.io"
@@ -24,7 +24,6 @@ author:
   # Biographic information
   avatar           : "profile.png" # 记得确保 images 文件夹里有这张照片
   name             : "褚承旭 / Chengxu Chu"
-  # 👇 【修改点1】顺序已调整：国科大 -> 自动化所 -> 奥胡斯
   bio              : "中国科学院大学<br>中国科学院自动化研究所<br>多模态人工智能系统全国重点实验室"
   location         : "Beijing, China"
   employer         : "CASIA"
