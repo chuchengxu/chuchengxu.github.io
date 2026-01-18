@@ -8,10 +8,6 @@ author_profile: true
 ## 研究方向
 我的主要研究兴趣集中在 **脑机接口 (BCI)** 与 **机器人控制** 的交叉领域，致力于通过神经信号解码实现人机共融
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/images/liuchengtu.jpg" width="100%">
-</div>
-
 ### 1. 运动意图解码
 * **多模态信号融合**: 结合脑电(EEG)和表面肌电(sEMG)信号，提高运动意图识别的准确率和鲁棒性
 * **时空特征学习**: 利用深度学习方法提取神经信号中的时空特征
