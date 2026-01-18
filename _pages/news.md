@@ -16,7 +16,7 @@ author_profile: true
     <img src="/images/nanhang.jpg" width="400">
   </div>
 * **2025.05:** 我主持的省级大学生创新创业训练计划《基于慧鱼模型的六足仿生陆地探测机器人》合格结题
-* **2025.01:** 参加国家制造业信息化培训中心3D办主办的“2025元宇宙·AIGC·3D/XR技术与创新实践交流研讨会”
+* **2025.01:** 参加国家制造业信息化培训中心主办的“2025元宇宙·AIGC·3D/XR技术与创新实践交流研讨会”
   <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
     <img src="/images/3d.jpg" width="400">
   </div>
