@@ -33,7 +33,7 @@ redirect_from:
 
 * **2026.09 - 至今 中国科学院大学 / 奥胡斯大学**
   * 理学硕士 (M.S.) 认知神经科学
-  * 导师：[侯增广 研究员](https://people.ucas.ac.cn/~zengguanghou)
+  * 导师：[侯增广 研究员 IEEE Fellow](https://people.ucas.ac.cn/~zengguanghou)
 
 * **2022.09 - 2026.06 大连工业大学**
   * 工学学士 (B.E.) 机械电子工程
