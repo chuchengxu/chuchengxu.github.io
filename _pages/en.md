@@ -42,5 +42,5 @@ I have been admitted to the **Sino-Danish College, University of Chinese Academy
 
 ## Contact
 * **Address:** 95 Zhongguancun East Road, Haidian District, Beijing, China
-* **Postcode:** 100190
+* **Postcode:** 116034
 * **E-mail:** [2204120107@xy.dlpu.edu.cn](mailto:2204120107@xy.dlpu.edu.cn)
