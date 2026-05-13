@@ -24,7 +24,7 @@ Hello! I am **Chengxu Chu**, currently a senior undergraduate student majoring i
 
 I have been admitted to the **Sino-Danish College, University of Chinese Academy of Sciences (UCAS)** to pursue a Master's degree in Cognitive Neuroscience, starting in Fall 2026, supervised by **Professor Zengguang Hou**.
 
-Currently, I am a visiting student at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, working in the State Key Laboratory of Multimodal Artificial Intelligence Systems. My research interests focus on the intersection of **Brain-Computer Interfaces (BCI)** and **Robotic Control**. I am dedicated to realizing more natural human-machine interaction and medical robot control through multimodal neural signal decoding.
+ My research interests focus on the intersection of **Brain-Computer Interfaces (BCI)** and **Robotic Control**. I am dedicated to realizing more natural human-machine interaction and medical robot control through multimodal neural signal decoding.
 
 ---
 
