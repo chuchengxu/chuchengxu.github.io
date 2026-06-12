@@ -22,23 +22,7 @@ repository               : "chuchengxu/chuchengxu.github.io"
 #                Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # 记得确保 images 文件夹里有这张照片
   name             : "褚承旭 / Chengxu Chu"
-  bio              : "中国科学院大学<br>中国科学院自动化研究所<br>多模态人工智能系统全国重点实验室"
-  location         : "Beijing, China"
-  employer         : "CASIA"
-  uri              : # URL
-  email            : "2204120107@xy.dlpu.edu.cn" 
-
-  # Academic websites
-  googlescholar    : "你的谷歌学术ID" # 如果有了 ID 记得填进去，没有就留空或填 ""
-  
-  # 👇 【修改点2】更新了你的 ORCID
-  orcid            : "0009-0000-6671-1305" 
-
-  # 👇 【修改点3】删除了 PubMed 和 Bluesky
-  pubmed           : "" 
-  bluesky          : ""
   
   # 其他不需要的链接保持为空
   academia         : # URL
